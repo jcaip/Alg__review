@@ -1,2 +1,2 @@
 # Alg__review
-going over a bunch of algorithms in c++
+going over a bunch of algorithms in Java/Python
